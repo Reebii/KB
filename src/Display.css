@@ -1,0 +1,32 @@
+/* src/Display.css */
+
+.display-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .selection-controls {
+    display: flex;
+    align-items: center;
+  }
+  
+  .select-all-checkbox {
+    margin-right: 8px;
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+  }
+  
+  .controls label {
+    margin-right: 15px;
+  }
+  
+  .controls select {
+    margin-left: 5px;
+    padding: 4px 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  

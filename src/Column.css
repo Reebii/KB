@@ -1,0 +1,20 @@
+/* src/Column.css */
+
+.column {
+    min-width: 300px;
+    flex-shrink: 0;
+    background-color: #f4f5f7;
+    border-radius: 8px;
+    padding: 20px 15px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  .column-title {
+    font-weight: 600;
+    font-size: 16px;
+    color: #333333;
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
